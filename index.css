@@ -1,0 +1,42 @@
+.box {
+  display: none;
+  margin: 2rem;
+}
+
+.top {
+  font-size: 1.3rem;
+  float: right;
+}
+
+.content {
+  margin-top: 1rem;
+}
+h4 {
+  padding-top: 0.3rem;
+  color: black;
+  font-size: 1.3rem;
+}
+
+.has-icons-right {
+  width: 80%;
+}
+
+#zipForm {
+  display: flex;
+}
+
+a {
+  width: 18%;
+  margin-left: 2rem;
+}
+
+.notification {
+  display: none;
+  margin: 2rem;
+  padding: 2rem;
+  font-size: 1.3rem;
+}
+
+.box-t {
+  text-align: center;
+}
